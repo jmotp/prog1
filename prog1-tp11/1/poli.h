@@ -1,0 +1,1 @@
+int lerPoli(int *poli);
