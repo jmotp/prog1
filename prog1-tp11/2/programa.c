@@ -15,10 +15,4 @@ int main(void) {
     d=somaDias(d,-10);
     escreveData(data_String,d);
     printf("%s\n", data_String);
-  /* ler data
-     validar data
-     ler número de dias a avançar
-     actualizar data
-     imprimir data actualizada */
-
 }
